@@ -19,12 +19,15 @@ To learn more about Projects, take a look at the following resources:
 
 You can check out [the GitHub repository](https://github.com/chrisblakely01/quiz-app/blob/master/starter/src/App.js)!
 
+- [Expense Tracker](https://www.freecodecamp.org/news/react-budget-tracker-app/) - learn more about context and reducer hooks.
+
+
+You can check out [the GitHub repository](https://github.com/chrisblakely01/quiz-app/blob/master/starter/src/App.js)!
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
 
 
 

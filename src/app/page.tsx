@@ -6,13 +6,15 @@ import React from 'react'
 // import Weather from './components/Search/Weather'
 // import Quiz from './components/Quiz/Quiz'
 // import Expence_Tracker from './components/Expence_Tracker/Expence_Tracker'
-import Test from './Test'
+import ExpenseMain from './components/Expense/ExpenseMain'
+// import Test from './components/Test/Test'
 
 const page = async () => {
-  const fetchApi = await fetch("https://opentdb.com/api.php?amount=10")
-  const datas =  await fetchApi.json()
-        const data = datas.results;
-        console.log("Data fetched",data);
+  
+//   const fetchApi = await fetch("https://opentdb.com/api.php?amount=10")
+//   const datas =  await fetchApi.json()
+//         const data = datas.results;
+//         console.log("Data fetched",data);
 
   return (
     <div>
@@ -32,8 +34,9 @@ const page = async () => {
       {/* <Quiz response={data}/> */}
 
       {/* <Expence_Tracker /> */}
+      <ExpenseMain />
 
-      <Test/>
+      {/* <Test /> */}
     </div>
   )
 }

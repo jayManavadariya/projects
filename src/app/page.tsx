@@ -6,7 +6,9 @@ import React from 'react'
 // import Weather from './components/Search/Weather'
 // import Quiz from './components/Quiz/Quiz'
 // import Expence_Tracker from './components/Expence_Tracker/Expence_Tracker'
-import ExpenseMain from './components/Expense/ExpenseMain'
+// import ExpenseMain from './components/Expense/ExpenseMain'
+// import Calander from './components/Calandar/Calandar'
+import Inventory_Management from './components/Inventory_Management/Inventory_Management'
 // import Test from './components/Test/Test'
 
 const page = async () => {
@@ -34,7 +36,13 @@ const page = async () => {
       {/* <Quiz response={data}/> */}
 
       {/* <Expence_Tracker /> */}
-      <ExpenseMain />
+      {/* <ExpenseMain /> */}
+
+      {/* calandar */}
+      {/* <Calander/> */}
+
+      {/* Inventory_Management */}
+      <Inventory_Management/>
 
       {/* <Test /> */}
     </div>

@@ -22,7 +22,7 @@ You can check out [the GitHub repository](https://github.com/chrisblakely01/quiz
 - [Expense Tracker](https://www.freecodecamp.org/news/react-budget-tracker-app/) - learn more about context and reducer hooks.
 
 
-You can check out [the GitHub repository](https://github.com/chrisblakely01/quiz-app/blob/master/starter/src/App.js)!
+You can check out [the GitHub repository](https://codesandbox.io/p/sandbox/expense-tracker-react-app-ck6bk?file=%2Fsrc%2Fcomponents%2FIncomeExpenses.js%3A4%2C38)!
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
